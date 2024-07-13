@@ -1,0 +1,64 @@
+
+Name: Gasparin
+CNPJ: 2222.2222
+Address: Boa Vista
+Order ID: 1
+Pasta type: Spaguetti
+Amount: 200.0kg
+
+
+Name: Big
+CNPJ: 3333.4444
+Address: Bacacheri
+Order ID: 2
+Pasta type: Canelone
+Amount: 240.0kg
+
+
+Name: Big
+CNPJ: 3333.4444
+Address: Bacacheri
+Order ID: 3
+Pasta type: Talharim
+Amount: 300.0kg
+
+
+Name: Big
+CNPJ: 3333.4444
+Address: Bacacheri
+Order ID: 4
+Pasta type: Spaguetti
+Amount: 348.0kg
+
+
+Name: Carrefour
+CNPJ: 5555.7777
+Address: Juvevê
+Order ID: 5
+Pasta type: Spaguetti
+Amount: 568.0kg
+
+
+Name: Carrefour
+CNPJ: 5555.7777
+Address: Juvevê
+Order ID: 6
+Pasta type: Talharim
+Amount: 120.0kg
+
+
+Name: Cão Veio
+CNPJ: 8888.0000
+Address: Batel
+Order ID: 10
+Pasta type: Talharim
+Amount: 320.0kg
+
+
+Name: Dona Ambrosina
+CNPJ: 9999.0000
+Address: Bigorrilho
+Order ID: 8
+Pasta type: Canelone
+Amount: 640.0kg
+

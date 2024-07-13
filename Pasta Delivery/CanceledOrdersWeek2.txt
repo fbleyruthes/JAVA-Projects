@@ -1,0 +1,32 @@
+
+Name: Carrefour
+CNPJ: 5555.7777
+Address: Juvevê
+Order ID: 13
+Pasta type: Talharim
+Amount: 1054.0kg
+
+
+Name: Dona Ambrosina
+CNPJ: 9999.0000
+Address: Bigorrilho
+Order ID: 17
+Pasta type: Talharim
+Amount: 1442.0kg
+
+
+Name: Cão Veio
+CNPJ: 8888.0000
+Address: Batel
+Order ID: 18
+Pasta type: Canelone
+Amount: 1732.0kg
+
+
+Name: Cão Veio
+CNPJ: 8888.0000
+Address: Batel
+Order ID: 20
+Pasta type: Talharim
+Amount: 1225.0kg
+

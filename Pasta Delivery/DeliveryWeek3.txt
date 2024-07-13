@@ -1,0 +1,45 @@
+
+Client Type: Supermarket
+Name: Gasparin
+CNPJ: 2222.2222
+Address: Boa Vista
+Total mass: 200,00kg
+Total Price: $1620,00
+
+
+
+Client Type: Supermarket
+Name: Big
+CNPJ: 3333.4444
+Address: Bacacheri
+Total mass: 888,00kg
+Total Price: $9190,80
+
+
+
+Client Type: Supermarket
+Name: Carrefour
+CNPJ: 5555.7777
+Address: Juvevê
+Total mass: 688,00kg
+Total Price: $6112,80
+
+
+
+Client Type: Restaurant
+Name: Dona Ambrosina
+CNPJ: 9999.0000
+Address: Bigorrilho
+Total mass: 640,00kg
+Total Price: $7680,00
+
+
+
+Client Type: Restaurant
+Name: Cão Veio
+CNPJ: 8888.0000
+Address: Batel
+Total mass: 320,00kg
+Total Price: $4480,00
+
+
